@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|e:\\bulga\\apiharjotukset\\apidemot\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|e:\\bulga\\apiharjotukset\\apidemot\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|e:\\bulga\\apiharjotukset\\apidemot\\todoapi\\todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|e:\\bulga\\apiharjotukset\\apidemot\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE75CE15-4836-436D-9430-5D1044FEC990}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.http",
+              "ToolTip": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\TodoApi.http*",
+              "RelativeToolTip": "TodoApi\\TodoApi.http*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-07T11:08:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:53:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\TodoDb.cs",
+              "RelativeDocumentMoniker": "TodoApi\\TodoDb.cs",
+              "ToolTip": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\TodoDb.cs",
+              "RelativeToolTip": "TodoApi\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:00:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Todo.cs",
+              "ToolTip": "E:\\BULGA\\APIharjotukset\\APIdemot\\TodoApi\\TodoApi\\Todo.cs",
+              "RelativeToolTip": "TodoApi\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:58:38.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
